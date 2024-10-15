@@ -4,9 +4,7 @@
 -  [My Personal Website](https://alexradu.co) &nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/alextheradu/alextheradu.github.io)
 ![GitHub most used language](https://img.shields.io/github/languages/top/alextheradu/alextheradu.github.io)
-
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextheradu&layout=compact)](https://github.com/alextheradu)
+-  [Computer Science Projects](https://alexradu.co/computer-science-projects) &nbsp;
 
 ## 📫 How to contact me:
 1. Email @ cooldudev.super@gmail.com
