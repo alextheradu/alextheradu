@@ -4,7 +4,7 @@
 -  [My Personal Website](https://alexradu.co) &nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/alextheradu/alextheradu.github.io)
 ## 📫 How to contact me:
-    1. Email @ cooldudev.super@gmail.com
+1. Email @ cooldudev.super@gmail.com
 
 <!--
 **alextheradu/alextheradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
