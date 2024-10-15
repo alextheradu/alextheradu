@@ -5,7 +5,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/alextheradu/alextheradu.github.io)
 ![GitHub most used language](https://img.shields.io/github/languages/top/alextheradu/alextheradu.github.io)
 -  [Computer Science Projects](https://alexradu.co/computer-science-projects) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/alextheradu/alextheradu.github.io](https://img.shields.io/gitea/last-commit/alextheradu/alextheradu.github.io?path=computer-science-projects))
 
 ## 📫 How to contact me:
 1. Email @ cooldudev.super@gmail.com
