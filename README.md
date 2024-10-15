@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=D2D2D2&vCenter=true&width=1050&lines=%F0%9F%91%8B+Hello+there;%F0%9F%99%83+My+name+is+Alex+Radu;%F0%9F%92%BB+I+like+coding;%F0%9F%A7%AA+I'm+taking+HCS+at+my+High+School;%F0%9F%A4%96+I'm+currently+learning+HTML%2C+CSS%2C+JS%2C+and+normal+Java)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=D2D2D2&vCenter=true&width=1050&lines=%F0%9F%91%8B+Hello+there;%F0%9F%99%83+My+name+is+Alex+Radu;%F0%9F%92%BB+I+like+coding;%F0%9F%A7%AA+I'm+taking+HCS+at+my+High+School;%F0%9F%A4%96+I'm+currently+learning+HTML%2C+CSS%2C+JS%2C+and+Java)
 
 ## 🔭  I'm currently working on:
 -  [My Personal Website](https://alexradu.co) &nbsp;
