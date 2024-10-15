@@ -6,7 +6,7 @@
 ![GitHub most used language](https://img.shields.io/github/languages/top/alextheradu/alextheradu.github.io)
 
 ## Stats
-[![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alextheradu)](https://github.com/alextheradu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alextheradu&layout=compact)](https://github.com/alextheradu)
 
 ## 📫 How to contact me:
 1. Email @ cooldudev.super@gmail.com
