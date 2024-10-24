@@ -7,7 +7,7 @@
 -  [Computer Science Projects](https://alexradu.co/computer-science-projects) &nbsp;
 
 ## 📫 How to contact me:
-1. Email @ alex@alexradu.com
+1. Email @ alex@alexradu.co
 
 <!--
 **alextheradu/alextheradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
