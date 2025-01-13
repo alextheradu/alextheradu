@@ -4,9 +4,9 @@
 -  [My Personal Website](https://alexradu.co) &nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/alextheradu/website)
 ![GitHub most used language](https://img.shields.io/github/languages/top/alextheradu/website)
--  [Computer Science Projects](https://github.com/alextheradu/Freshman-CS-Projects) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/alextheradu/Freshman-CS-Projects)
-![GitHub most used language](https://img.shields.io/github/languages/top/alextheradu/Freshman-CS-Projects)
+-  [Computer Science Projects](https://github.com/alextheradu/CS-Projects) &nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/alextheradu/CS-Projects)
+![GitHub most used language](https://img.shields.io/github/languages/top/alextheradu/CS-Projects)
 
 ## 📫 How to contact me:
 1. Email @ alex@alexradu.co
