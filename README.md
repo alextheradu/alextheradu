@@ -10,10 +10,10 @@
 4. HTML, CSS, JS
 
 ## ⚡ Websites I've worked on:
-1. https://team1676.com
-2. https://novusimpakt.com
-3. https://alexradu.co
-4. https://frtree.team1676.com
+1. [team1676.com](https://team1676.com)
+2. [novusimpakt.com](https://www.novusimpakt.com) (Currently unavailable to those in the United States and Europe)
+3. [alexradu.co](https://alexradu.co)
+4. [frtree.team1676.com](https://frtree.team1676.com)
 <!--
 **alextheradu/alextheradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
