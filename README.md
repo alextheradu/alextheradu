@@ -9,6 +9,11 @@
 3. Python
 4. HTML, CSS, JS
 
+## ⚡ Websites I've worked on:
+1. https://team1676.com
+2. https://novusimpakt.com
+3. https://alexradu.co
+4. https://frtree.team1676.com
 <!--
 **alextheradu/alextheradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
