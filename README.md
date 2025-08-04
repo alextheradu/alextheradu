@@ -11,7 +11,7 @@
 
 ## ⚡ Websites I've worked on:
 1. [team1676.com](https://team1676.com)
-2. [novusimpakt.com](https://www.novusimpakt.com) (Currently unavailable to those in the United States and Europe)
+2. [novusimpakt.com](https://www.novusimpakt.com)
 3. [alexradu.co](https://alexradu.co)
 4. [frtree.team1676.com](https://frtree.team1676.com)
 <!--
