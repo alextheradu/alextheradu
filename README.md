@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F1F6FB&vCenter=true&width=1050&lines=%F0%9F%91%8B+Hello+there;%F0%9F%99%83+My+name+is+Alex+Radu;%F0%9F%92%BB+I+like+coding+(and+computers);%F0%9F%A7%AA+I'm+taking+APCS+at+my+High+School;%F0%9F%A4%96+I'm+currently+learning+HTML%2C+CSS%2C+JS%2C+and+Java)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F1F6FB&vCenter=true&width=1050&lines=%F0%9F%91%8B+Hello+there;%F0%9F%99%83+My+name+is+Alex+Radu;%F0%9F%92%BB+I+like+coding+(and+computers);%F0%9F%A7%AA+I'm+taking+APCS+at+my+High+School;%F0%9F%A4%96+I'm+currently+learning+Python%2C+NodeJS%2C+and+Java)
 
 ## 📫 How to contact me:
 1. Email @ alex@alexradu.co
 
-## 🌱 I’m currently learning:
+## 😄 I’m currently learning:
 1. Node.JS
 2. Java
 3. Python
