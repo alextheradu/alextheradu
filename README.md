@@ -13,7 +13,7 @@
 1. [team1676.com](https://team1676.com)
 2. [novusimpakt.com](https://www.novusimpakt.com)
 3. [alexradu.co](https://alexradu.co)
-4. [frctree.team1676.com](https://github.com/PioneersTeam1676/FRCTree)
+4. [frctree.team1676.com](https://github.com/PioneersTeam1676/FRC-Tree)
 <!--
 **alextheradu/alextheradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
