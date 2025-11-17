@@ -11,7 +11,7 @@
 
 ## ⚡ Websites I've worked on:
 1. [team1676.com](https://team1676.com)
-2. [novusimpakt.com](https://www.novusimpakt.com)
+2. [quizzr.alexradu.co](https://github.com/alextheradu/quizrrr)
 3. [alexradu.co](https://alexradu.co)
 4. [frctree.team1676.com](https://github.com/PioneersTeam1676/FRC-Tree)
 <!--
