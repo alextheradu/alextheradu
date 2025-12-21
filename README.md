@@ -11,7 +11,7 @@
 
 ## ⚡ Websites I've worked on:
 1. [team1676.com](https://team1676.com)
-2. [quizzr.alexradu.co](https://quizzr.org)
+2. [quizzr.org](https://quizzr.org)
 3. [alexradu.co](https://alexradu.co)
 4. [frctree.team1676.com](https://frctree.team1676.com/)
 <!--
