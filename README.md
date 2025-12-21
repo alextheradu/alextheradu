@@ -11,9 +11,9 @@
 
 ## ⚡ Websites I've worked on:
 1. [team1676.com](https://team1676.com)
-2. [quizzr.alexradu.co](https://github.com/alextheradu/quizrrr)
+2. [quizzr.alexradu.co](https://quizzr.org)
 3. [alexradu.co](https://alexradu.co)
-4. [frctree.team1676.com](https://github.com/PioneersTeam1676/FRC-Tree)
+4. [frctree.team1676.com](https://frctree.team1676.com/)
 <!--
 **alextheradu/alextheradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
