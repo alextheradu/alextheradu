@@ -1,30 +1,64 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F1F6FB&vCenter=true&width=1050&lines=%F0%9F%91%8B+Hello+there;%F0%9F%99%83+My+name+is+Alex+Radu;%F0%9F%92%BB+I+like+coding+(and+computers);%F0%9F%A7%AA+I'm+taking+APCS+at+my+High+School;%F0%9F%A4%96+I'm+currently+learning+Python%2C+NodeJS%2C+and+Java)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=22&pause=1000&color=EFEFEF&vCenter=true&width=600&lines=hey+%E2%80%94+I%27m+Alex+Radu.;full+stack+web+developer.;I+build+things+for+the+web.)](https://alexradu.co)
 
-## 📫 How to contact me:
-1. Email @ alex@alexradu.co
+---
 
-## 😄 I’m currently learning:
-1. Node.JS
-2. Java
-3. Python
-4. HTML, CSS, JS
+### about me
 
-## ⚡ Websites I've worked on:
-1. [team1676.com](https://team1676.com)
-2. [quizzr.org](https://quizzr.org)
-3. [alexradu.co](https://alexradu.co)
-4. [frctree.team1676.com](https://frctree.team1676.com/)
-<!--
-**alextheradu/alextheradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack dev from New Jersey. I like building and shipping real things - web apps, robotics tools, whatever's interesting.
 
-Here are some ideas to get you started:
+- 🌐 [alexradu.co](https://alexradu.co)
+- 📬 [alex@alexradu.co](mailto:alex@alexradu.co)
+- 💼 [linkedin.com/in/al3x-radu](https://www.linkedin.com/in/al3x-radu/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### tech stack
+
+**languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**frameworks & tools**
+
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-1a1a1a?style=flat-square&logo=svelte&logoColor=FF3E00)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=009639)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032)
+
+---
+
+### projects
+
+| project | description |
+|---|---|
+| [quizzr.org](https://quizzr.org) | quiz platform — 148 users, hackathon semifinalist |
+| [karaokly.com](https://karaokly.com) | karaoke app with multi-party session support |
+| [frctree.team1676.com](https://frctree.team1676.com/) | networking tool for FIRST Robotics teams |
+| [team1676.com](https://team1676.com) | FRC robotics team site |
+| [alexradu.co](https://alexradu.co) | personal portfolio |
+| [phhshack.club](https://phhshack.club) | official website for the PHHS Hack Club |
+| [framework.phhshack.club](https://framework.phhshack.club) | official website for the Framework Hackathon by PHHS Hack Club |
+
+---
+
+### stats
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alextheradu&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=252525&title_color=efefef&text_color=777777&icon_color=888888&hide_border=false&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextheradu&layout=compact&theme=dark&bg_color=0d0d0d&border_color=252525&title_color=efefef&text_color=777777&hide_border=false" />
+</p>
+
+---
+
+<sub>📍 NJ · open to collabs → alex@alexradu.co</sub>
