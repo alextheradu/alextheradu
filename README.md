@@ -4,7 +4,7 @@
 
 ### about me
 
-Full-stack dev from New Jersey. I like building and shipping real things - web apps, robotics tools, whatever's interesting.
+Full-stack dev from New Jersey. I like building and shipping real things such as web apps, robotics tools, whatever's interesting.
 
 - 🌐 [alexradu.co](https://alexradu.co)
 - 📬 [alex@alexradu.co](mailto:alex@alexradu.co)
