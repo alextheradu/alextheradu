@@ -50,7 +50,7 @@ Full-stack dev from New Jersey. I like building and shipping real things such as
 | [phhshack.club](https://phhshack.club) | official website for the PHHS Hack Club |
 | [framework.phhshack.club](https://framework.phhshack.club) | official website for the Framework Hackathon by PHHS Hack Club |
 
----
+<!-- ---
 
 ### stats
 
@@ -59,6 +59,6 @@ Full-stack dev from New Jersey. I like building and shipping real things such as
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextheradu&layout=compact&theme=dark&bg_color=0d0d0d&border_color=252525&title_color=efefef&text_color=777777&hide_border=false" />
 </p>
 
----
+--- -->
 
 <sub>📍 NJ · open to collabs → alex@alexradu.co</sub>
