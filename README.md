@@ -42,7 +42,7 @@ Full-stack dev from New Jersey. I like building and shipping real things such as
 
 | project | description |
 |---|---|
-| [quizzr.org](https://quizzr.org) | quiz platform — 148 users, hackathon semifinalist |
+| [quizzr.org](https://quizzr.org) | quiz platform — 154 users, hackathon semifinalist |
 | [karaokly.com](https://karaokly.com) | karaoke app with multi-party session support |
 | [frctree.team1676.com](https://frctree.team1676.com/) | networking tool for FIRST Robotics teams |
 | [team1676.com](https://team1676.com) | FRC robotics team site |
