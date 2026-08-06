@@ -1,0 +1,20 @@
+name: Update user count
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch count and update README
+        run: |
+          COUNT=$(curl -s https://quizzr.org/api/users/count)
+          sed -i "s/<!--QUIZZR-USERS-->.*<!--\/QUIZZR-USERS-->/<!--QUIZZR-USERS-->${COUNT}<!--\/QUIZZR-USERS-->/" README.md
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "Update user count" && git push)
