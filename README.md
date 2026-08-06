@@ -42,23 +42,15 @@ Full-stack dev from New Jersey. I like building and shipping real things such as
 
 | project | description |
 |---|---|
+| [shahlab/demux](https://github.com/alextheradu/shahlab-nf-scatac/) | Nextflow pipeline for demultiplexing ATAC and WGS reads from the DATAC single-cell co-assay |
+| [alexradu.co](https://alexradu.co) | personal portfolio |
+| [curatorfrc.com](https://github.com/alextheradu/curator) | FRC AI Chatbot and Assistant |
+| [tagless ysws](https://tagless.hackclub.com) | a [hack club](https://hackclub.com) ysws where you make a website without html tags and we ship luggage tags or other prizes |
 | [quizzr.org](https://quizzr.org) | quiz platform — 154 users, hackathon semifinalist |
 | [karaokly.com](https://karaokly.com) | karaoke app with multi-party session support |
 | [frctree.team1676.com](https://frctree.team1676.com/) | networking tool for FIRST Robotics teams |
 | [team1676.com](https://team1676.com) | FRC robotics team site |
-| [alexradu.co](https://alexradu.co) | personal portfolio |
 | [phhshack.club](https://phhshack.club) | official website for the PHHS Hack Club |
-| [framework.phhshack.club](https://framework.phhshack.club) | official website for the Framework Hackathon by PHHS Hack Club |
 
-<!-- ---
 
-### stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alextheradu&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=252525&title_color=efefef&text_color=777777&icon_color=888888&hide_border=false&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alextheradu&layout=compact&theme=dark&bg_color=0d0d0d&border_color=252525&title_color=efefef&text_color=777777&hide_border=false" />
-</p>
-
---- -->
-
-<sub>📍 NJ · open to collabs → alex@alexradu.co</sub>
+<sub>📍 NJ · alex@alexradu.co · hack clubber</sub>
