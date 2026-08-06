@@ -42,11 +42,11 @@ Full-stack dev from New Jersey. I like building and shipping real things such as
 
 | project | description |
 |---|---|
-| [shahlab/demux](https://github.com/alextheradu/shahlab-nf-scatac/) | Nextflow pipeline for demultiplexing ATAC and WGS reads from the DATAC single-cell co-assay |
+| [shahlab/demux](https://github.com/alextheradu/shahlab-nf-scatac/) | my summer interhsip project at mskcc - a nextflow pipeline for demultiplexing ATAC and WGS reads from the DATAC single-cell co-assay|
 | [alexradu.co](https://alexradu.co) | personal portfolio |
 | [curatorfrc.com](https://github.com/alextheradu/curator) | FRC AI Chatbot and Assistant |
 | [tagless ysws](https://tagless.hackclub.com) | a [hack club](https://hackclub.com) ysws where you make a website without html tags and we ship luggage tags or other prizes |
-| [quizzr.org](https://quizzr.org) | quiz platform — 154 users, hackathon semifinalist |
+| [quizzr.org](https://quizzr.org) | quiz platform - 154 users, hackathon semifinalist |
 | [karaokly.com](https://karaokly.com) | karaoke app with multi-party session support |
 | [frctree.team1676.com](https://frctree.team1676.com/) | networking tool for FIRST Robotics teams |
 | [team1676.com](https://team1676.com) | FRC robotics team site |
