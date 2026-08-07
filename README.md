@@ -4,7 +4,7 @@
 
 ### about me
 
-Full-stack dev from New Jersey. I like building and shipping real things such as web apps, robotics tools, whatever's interesting.
+Full-stack dev from New Jersey. I like building and shipping things such as websites, robotics tools, and whatever's interesting.
 
 - 🌐 [alexradu.co](https://alexradu.co)
 - 📬 [alex@alexradu.co](mailto:alex@alexradu.co)
@@ -53,4 +53,4 @@ Full-stack dev from New Jersey. I like building and shipping real things such as
 | [phhshack.club](https://phhshack.club) | official website for the PHHS Hack Club |
 
 
-<sub>📍 NJ · alex@alexradu.co · hack clubber</sub>
+<sub>📍 NJ · alex@alexradu.co · hack clubber · frc</sub>
