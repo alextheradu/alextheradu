@@ -36,6 +36,12 @@ Full-stack dev from New Jersey. I like building and shipping things such as webs
 ![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=009639)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032)
 
+**systems**
+
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1a1a?style=flat-square&logo=ubuntu&logoColor=E95420)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a1a?style=flat-square&logo=raspberrypi&logoColor=A22846)
+
 ---
 
 ### projects
