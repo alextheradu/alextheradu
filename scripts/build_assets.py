@@ -148,43 +148,44 @@ def build_status(repos, events, goals, now):
     )
 
     # shipping
-    parts.append(h2(88, "shipping", "most recent pushes"))
-    rows = []
-    for repo in repos:
-        if repo.get("fork") or repo.get("archived") or repo["name"].lower() == USER.lower():
-            continue
-        rows.append(repo)
-        if len(rows) == 6:
-            break
-    top = 104
-    for i, repo in enumerate(rows):
-        base = top + 28
-        when, secs = ago(parse(repo["pushed_at"]), now)
-        fresh = secs < 48 * 3600
-        parts.append(f'<text class="m" x="{PAD}" y="{base}" font-size="12" fill="{DIM}">{i + 1:02d}</text>')
-        parts.append(f'<text class="s" x="{PAD + 34}" y="{base}" font-size="16" fill="{WHITE}">{esc(trunc(repo["name"], 22))}</text>')
-        lang = repo.get("language")
-        if lang:
-            cw = len(lang) * 7 + 14
-            parts.append(f'<rect x="{PAD + 250}" y="{base - 14}" width="{cw}" height="20" rx="3" fill="none" stroke="{BORDER}"/>')
-            parts.append(f'<text class="m" x="{PAD + 257}" y="{base}" font-size="11" fill="{MUTED}">{esc(lang.lower())}</text>')
-        desc = trunc(repo.get("description") or "", 46)
-        if desc:
-            parts.append(f'<text class="s" x="{PAD + 370}" y="{base}" font-size="13" fill="{MUTED}">{esc(desc)}</text>')
-        parts.append(
-            f'<text class="m" x="{W - PAD}" y="{base}" font-size="12" fill="{GREEN if fresh else MUTED}" text-anchor="end">{esc(when)}</text>'
-        )
-        if i < len(rows) - 1:
-            parts.append(f'<line x1="{PAD}" y1="{top + 44}" x2="{W - PAD}" y2="{top + 44}" stroke="{BAR_BG}"/>')
-        top += 44
-    if not rows:
-        parts.append(
-            f'<text class="s" x="{PAD}" y="{top + 28}" font-size="13" fill="{MUTED}">waiting for the first sync. run the refresh workflow once from the actions tab.</text>'
-        )
-        top += 44
-    y = top + 40
+    # parts.append(h2(88, "shipping", "most recent pushes"))
+    # rows = []
+    # for repo in repos:
+    #     if repo.get("fork") or repo.get("archived") or repo["name"].lower() == USER.lower():
+    #         continue
+    #     rows.append(repo)
+    #     if len(rows) == 6:
+    #         break
+    # top = 104
+    # for i, repo in enumerate(rows):
+    #     base = top + 28
+    #     when, secs = ago(parse(repo["pushed_at"]), now)
+    #     fresh = secs < 48 * 3600
+    #     parts.append(f'<text class="m" x="{PAD}" y="{base}" font-size="12" fill="{DIM}">{i + 1:02d}</text>')
+    #     parts.append(f'<text class="s" x="{PAD + 34}" y="{base}" font-size="16" fill="{WHITE}">{esc(trunc(repo["name"], 22))}</text>')
+    #     lang = repo.get("language")
+    #     if lang:
+    #         cw = len(lang) * 7 + 14
+    #         parts.append(f'<rect x="{PAD + 250}" y="{base - 14}" width="{cw}" height="20" rx="3" fill="none" stroke="{BORDER}"/>')
+    #         parts.append(f'<text class="m" x="{PAD + 257}" y="{base}" font-size="11" fill="{MUTED}">{esc(lang.lower())}</text>')
+    #     desc = trunc(repo.get("description") or "", 46)
+    #     if desc:
+    #         parts.append(f'<text class="s" x="{PAD + 370}" y="{base}" font-size="13" fill="{MUTED}">{esc(desc)}</text>')
+    #     parts.append(
+    #         f'<text class="m" x="{W - PAD}" y="{base}" font-size="12" fill="{GREEN if fresh else MUTED}" text-anchor="end">{esc(when)}</text>'
+    #     )
+    #     if i < len(rows) - 1:
+    #         parts.append(f'<line x1="{PAD}" y1="{top + 44}" x2="{W - PAD}" y2="{top + 44}" stroke="{BAR_BG}"/>')
+    #     top += 44
+    # if not rows:
+    #     parts.append(
+    #         f'<text class="s" x="{PAD}" y="{top + 28}" font-size="13" fill="{MUTED}">waiting for the first sync. run the refresh workflow once from the actions tab.</text>'
+    #     )
+    #     top += 44
+    # y = top + 40
 
     # goals
+    y = 82
     parts.append(h2(y, "personal goals", "2026"))
     top = y + 16
     for g in goals:
@@ -228,7 +229,7 @@ def build_status(repos, events, goals, now):
     parts.append(f'<text class="m" x="{W - PAD}" y="{gtop + gh + 20}" font-size="11" fill="{DIM}" text-anchor="end">today</text>')
 
     height = gtop + gh + 20 + 28
-    label = f"Live status: {len(rows)} recent repos, personal goals for 2026, and {total} pushes in the last 30 days"
+    label = f"Live status: personal goals for 2026, and {total} pushes in the last 30 days"
     return frame(height, label, "\n".join(parts))
 
 

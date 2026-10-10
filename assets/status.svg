@@ -1,97 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 854" width="900" height="854" role="img" aria-label="Live status: 6 recent repos, personal goals for 2026, and 42 pushes in the last 30 days">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 528" width="900" height="528" role="img" aria-label="Live status: personal goals for 2026, and 69 pushes in the last 30 days">
 <style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
-<rect x="0.5" y="0.5" width="899" height="853" rx="12" fill="#0d0f11" stroke="#23272b"/>
+<rect x="0.5" y="0.5" width="899" height="527" rx="12" fill="#0d0f11" stroke="#23272b"/>
 <text class="s" x="28" y="42" font-size="15" fill="#9aa1a8">// live</text>
-<text class="m" x="872" y="42" font-size="12" fill="#3a4045" text-anchor="end">synced 2026-10-10 23:05 utc</text>
-<text class="s" x="28" y="88" font-size="15" font-weight="600" fill="#7f868c">shipping</text><text class="m" x="872" y="88" font-size="12" fill="#3a4045" text-anchor="end">most recent pushes</text>
-<text class="m" x="28" y="132" font-size="12" fill="#3a4045">01</text>
-<text class="s" x="62" y="132" font-size="16" fill="#f0f1f2">curator</text>
-<rect x="278" y="118" width="84" height="20" rx="3" fill="none" stroke="#23272b"/>
-<text class="m" x="285" y="132" font-size="11" fill="#6d7378">typescript</text>
-<text class="s" x="398" y="132" font-size="13" fill="#6d7378">FRC AI Chatbot and Assistant</text>
-<text class="m" x="872" y="132" font-size="12" fill="#6d7378" text-anchor="end">7d ago</text>
-<line x1="28" y1="148" x2="872" y2="148" stroke="#1c1f22"/>
-<text class="m" x="28" y="176" font-size="12" fill="#3a4045">02</text>
-<text class="s" x="62" y="176" font-size="16" fill="#f0f1f2">haven-jumpstart-2026</text>
-<rect x="278" y="162" width="70" height="20" rx="3" fill="none" stroke="#23272b"/>
-<text class="m" x="285" y="176" font-size="11" fill="#6d7378">gdscript</text>
-<text class="s" x="398" y="176" font-size="13" fill="#6d7378">SIGN UP FOR HAVEN NYC!!!</text>
-<text class="m" x="872" y="176" font-size="12" fill="#6d7378" text-anchor="end">8d ago</text>
-<line x1="28" y1="192" x2="872" y2="192" stroke="#1c1f22"/>
-<text class="m" x="28" y="220" font-size="12" fill="#3a4045">03</text>
-<text class="s" x="62" y="220" font-size="16" fill="#f0f1f2">portfolio-v3</text>
-<rect x="278" y="206" width="49" height="20" rx="3" fill="none" stroke="#23272b"/>
-<text class="m" x="285" y="220" font-size="11" fill="#6d7378">astro</text>
-<text class="m" x="872" y="220" font-size="12" fill="#6d7378" text-anchor="end">11d ago</text>
-<line x1="28" y1="236" x2="872" y2="236" stroke="#1c1f22"/>
-<text class="m" x="28" y="264" font-size="12" fill="#3a4045">04</text>
-<text class="s" x="62" y="264" font-size="16" fill="#f0f1f2">bobadrops-ex1</text>
-<text class="m" x="872" y="264" font-size="12" fill="#6d7378" text-anchor="end">16d ago</text>
-<line x1="28" y1="280" x2="872" y2="280" stroke="#1c1f22"/>
-<text class="m" x="28" y="308" font-size="12" fill="#3a4045">05</text>
-<text class="s" x="62" y="308" font-size="16" fill="#f0f1f2">alextheradu.github.io</text>
-<rect x="278" y="294" width="84" height="20" rx="3" fill="none" stroke="#23272b"/>
-<text class="m" x="285" y="308" font-size="11" fill="#6d7378">javascript</text>
-<text class="m" x="872" y="308" font-size="12" fill="#6d7378" text-anchor="end">17d ago</text>
-<line x1="28" y1="324" x2="872" y2="324" stroke="#1c1f22"/>
-<text class="m" x="28" y="352" font-size="12" fill="#3a4045">06</text>
-<text class="s" x="62" y="352" font-size="16" fill="#f0f1f2">old-website</text>
-<rect x="278" y="338" width="84" height="20" rx="3" fill="none" stroke="#23272b"/>
-<text class="m" x="285" y="352" font-size="11" fill="#6d7378">javascript</text>
-<text class="s" x="398" y="352" font-size="13" fill="#6d7378">this is a good example of what to NOT do wh...</text>
-<text class="m" x="872" y="352" font-size="12" fill="#6d7378" text-anchor="end">17d ago</text>
-<text class="s" x="28" y="408" font-size="15" font-weight="600" fill="#7f868c">personal goals</text><text class="m" x="872" y="408" font-size="12" fill="#3a4045" text-anchor="end">2026</text>
-<text class="s" x="28" y="446" font-size="15" fill="#f0f1f2">grow Quizzr users</text>
-<text class="m" x="872" y="446" font-size="12" fill="#6d7378" text-anchor="end">222/250 users</text>
-<rect x="28" y="456" width="844" height="6" rx="3" fill="#1c1f22"/>
-<rect x="28" y="456" width="751.2" height="6" rx="3" fill="#00ff1e"/>
-<text class="s" x="28" y="482" font-size="12" fill="#6d7378">89% complete</text>
-<text class="s" x="28" y="512" font-size="15" fill="#f0f1f2">attend hackathons</text>
-<text class="m" x="872" y="512" font-size="12" fill="#6d7378" text-anchor="end">1/2</text>
-<rect x="28" y="522" width="844" height="6" rx="3" fill="#1c1f22"/>
-<rect x="28" y="522" width="422.0" height="6" rx="3" fill="#00ff1e"/>
-<text class="s" x="28" y="548" font-size="12" fill="#6d7378">50% complete</text>
-<text class="s" x="28" y="578" font-size="15" fill="#f0f1f2">publish technical tutorials</text>
-<text class="m" x="872" y="578" font-size="12" fill="#6d7378" text-anchor="end">3/10</text>
-<rect x="28" y="588" width="844" height="6" rx="3" fill="#1c1f22"/>
-<rect x="28" y="588" width="253.2" height="6" rx="3" fill="#00ff1e"/>
-<text class="s" x="28" y="614" font-size="12" fill="#6d7378">30% complete</text>
-<text class="s" x="28" y="644" font-size="15" fill="#f0f1f2">ship new full-stack projects</text>
-<text class="m" x="872" y="644" font-size="12" fill="#6d7378" text-anchor="end">5/7</text>
-<rect x="28" y="654" width="844" height="6" rx="3" fill="#1c1f22"/>
-<rect x="28" y="654" width="599.2" height="6" rx="3" fill="#00ff1e"/>
-<text class="s" x="28" y="680" font-size="12" fill="#6d7378">71% complete</text>
-<text class="s" x="28" y="724" font-size="15" font-weight="600" fill="#7f868c">pushes, last 30 days</text><text class="m" x="872" y="724" font-size="12" fill="#3a4045" text-anchor="end">42 pushes</text>
-<rect x="28.0" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="56.1" y="769.4" width="22.1" height="36.6" rx="2" fill="#00ff1e" fill-opacity="0.72"/>
-<rect x="84.3" y="787.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
-<rect x="112.4" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="140.5" y="796.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
-<rect x="168.7" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="196.8" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="224.9" y="796.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
-<rect x="253.1" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="281.2" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="309.3" y="796.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
-<rect x="337.5" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="365.6" y="778.6" width="22.1" height="27.4" rx="2" fill="#00ff1e" fill-opacity="0.63"/>
-<rect x="393.7" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="421.9" y="796.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
-<rect x="450.0" y="769.4" width="22.1" height="36.6" rx="2" fill="#00ff1e" fill-opacity="0.72"/>
-<rect x="478.1" y="787.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
-<rect x="506.3" y="742.0" width="22.1" height="64.0" rx="2" fill="#00ff1e" fill-opacity="1.00"/>
-<rect x="534.4" y="796.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
-<rect x="562.5" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="590.7" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="618.8" y="796.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
-<rect x="646.9" y="742.0" width="22.1" height="64.0" rx="2" fill="#00ff1e" fill-opacity="1.00"/>
-<rect x="675.1" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="703.2" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="731.3" y="742.0" width="22.1" height="64.0" rx="2" fill="#00ff1e" fill-opacity="1.00"/>
-<rect x="759.5" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="787.6" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="815.7" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<rect x="843.9" y="803" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
-<text class="m" x="28" y="826" font-size="11" fill="#3a4045">sep 11</text>
-<text class="m" x="872" y="826" font-size="11" fill="#3a4045" text-anchor="end">today</text>
+<text class="m" x="872" y="42" font-size="12" fill="#3a4045" text-anchor="end">synced 2026-10-10 23:10 utc</text>
+<text class="s" x="28" y="82" font-size="15" font-weight="600" fill="#7f868c">personal goals</text><text class="m" x="872" y="82" font-size="12" fill="#3a4045" text-anchor="end">2026</text>
+<text class="s" x="28" y="120" font-size="15" fill="#f0f1f2">grow Quizzr users</text>
+<text class="m" x="872" y="120" font-size="12" fill="#6d7378" text-anchor="end">222/250 users</text>
+<rect x="28" y="130" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="130" width="751.2" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="156" font-size="12" fill="#6d7378">89% complete</text>
+<text class="s" x="28" y="186" font-size="15" fill="#f0f1f2">attend hackathons</text>
+<text class="m" x="872" y="186" font-size="12" fill="#6d7378" text-anchor="end">1/2</text>
+<rect x="28" y="196" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="196" width="422.0" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="222" font-size="12" fill="#6d7378">50% complete</text>
+<text class="s" x="28" y="252" font-size="15" fill="#f0f1f2">publish technical tutorials</text>
+<text class="m" x="872" y="252" font-size="12" fill="#6d7378" text-anchor="end">3/10</text>
+<rect x="28" y="262" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="262" width="253.2" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="288" font-size="12" fill="#6d7378">30% complete</text>
+<text class="s" x="28" y="318" font-size="15" fill="#f0f1f2">ship new full-stack projects</text>
+<text class="m" x="872" y="318" font-size="12" fill="#6d7378" text-anchor="end">5/7</text>
+<rect x="28" y="328" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="328" width="599.2" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="354" font-size="12" fill="#6d7378">71% complete</text>
+<text class="s" x="28" y="398" font-size="15" font-weight="600" fill="#7f868c">pushes, last 30 days</text><text class="m" x="872" y="398" font-size="12" fill="#3a4045" text-anchor="end">69 pushes</text>
+<rect x="28.0" y="452.6" width="22.1" height="27.4" rx="2" fill="#00ff1e" fill-opacity="0.63"/>
+<rect x="56.1" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="84.3" y="461.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
+<rect x="112.4" y="434.3" width="22.1" height="45.7" rx="2" fill="#00ff1e" fill-opacity="0.81"/>
+<rect x="140.5" y="470.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
+<rect x="168.7" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="196.8" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="224.9" y="443.4" width="22.1" height="36.6" rx="2" fill="#00ff1e" fill-opacity="0.72"/>
+<rect x="253.1" y="461.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
+<rect x="281.2" y="425.1" width="22.1" height="54.9" rx="2" fill="#00ff1e" fill-opacity="0.91"/>
+<rect x="309.3" y="452.6" width="22.1" height="27.4" rx="2" fill="#00ff1e" fill-opacity="0.63"/>
+<rect x="337.5" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="365.6" y="470.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
+<rect x="393.7" y="461.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
+<rect x="421.9" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="450.0" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="478.1" y="416.0" width="22.1" height="64.0" rx="2" fill="#00ff1e" fill-opacity="1.00"/>
+<rect x="506.3" y="443.4" width="22.1" height="36.6" rx="2" fill="#00ff1e" fill-opacity="0.72"/>
+<rect x="534.4" y="461.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
+<rect x="562.5" y="470.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
+<rect x="590.7" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="618.8" y="452.6" width="22.1" height="27.4" rx="2" fill="#00ff1e" fill-opacity="0.63"/>
+<rect x="646.9" y="434.3" width="22.1" height="45.7" rx="2" fill="#00ff1e" fill-opacity="0.81"/>
+<rect x="675.1" y="461.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
+<rect x="703.2" y="477" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="731.3" y="470.9" width="22.1" height="9.1" rx="2" fill="#00ff1e" fill-opacity="0.44"/>
+<rect x="759.5" y="443.4" width="22.1" height="36.6" rx="2" fill="#00ff1e" fill-opacity="0.72"/>
+<rect x="787.6" y="452.6" width="22.1" height="27.4" rx="2" fill="#00ff1e" fill-opacity="0.63"/>
+<rect x="815.7" y="425.1" width="22.1" height="54.9" rx="2" fill="#00ff1e" fill-opacity="0.91"/>
+<rect x="843.9" y="461.7" width="22.1" height="18.3" rx="2" fill="#00ff1e" fill-opacity="0.54"/>
+<text class="m" x="28" y="500" font-size="11" fill="#3a4045">sep 11</text>
+<text class="m" x="872" y="500" font-size="11" fill="#3a4045" text-anchor="end">today</text>
 </svg>
