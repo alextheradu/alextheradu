@@ -7,8 +7,8 @@ i'm a junior at pascack hills high school and i lead infotech (websites, scoutin
 ### things i've built
 
 - `01` **[Curator](https://curatorfrc.com)** `frc` `ai` `next js`<br>an ai chatbot and assistant for first robotics teams. built to work alongside students, not do the work for them.
-- `02` **[tagless](https://tagless.hackclub.com)** `hack club` `javascript` `html`<br>a hack club ysws i run: build a website without a single html tag, ship it, get a prize in the mail.
-- `03` **[tagless](https://tagless.hackclub.com)** `hack club` `javascript` `html`<br>a hack club ysws i run: build a website without a single html tag, ship it, get a prize in the mail.
+- `02` **[cont.d](https://contd.hackclub.com)** `hack club` `next js` `html`<br>current hack club ysws: toss in an old project, pick up someone else's, and remake it.
+- `03` **[tagless](https://tagless.hackclub.com)** `hack club` `javascript` `html`<br>my first hack club ysws: build a website without a single html tag, ship it, get a prize in the mail.
 - `04` **[DATAC pipeline](https://github.com/alextheradu/shahlab-nf-scatac/)** `nextflow` `nf-core` `bioinformatics`<br>demultiplexes ATAC and WGS reads from the DATAC single-cell co-assay. built during my internship in the shah lab at mskcc.
 - `05` **[Pioneer Scouting](https://github.com/PioneersTeam1676/1676-maneuver)** `react` `express` `sqlite` `dexie`<br>full rebuild of team 1676's scouting app. works offline in a stand with no signal, with google oauth roles for pit scouts, drive teams, and leads.
 - `06` **[Command](https://github.com/PioneersTeam1676/command)** `react` `express`<br>A self-hostable team management app for FRC-style robotics teams.
