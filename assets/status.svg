@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 634" width="900" height="634" role="img" aria-label="Live status: 0 recent repos, personal goals for 2026, and 0 pushes in the last 30 days">
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect x="0.5" y="0.5" width="899" height="633" rx="12" fill="#0d0f11" stroke="#23272b"/>
+<text class="s" x="28" y="42" font-size="15" fill="#9aa1a8">// live</text>
+<text class="m" x="872" y="42" font-size="12" fill="#3a4045" text-anchor="end">synced 2026-10-10 22:56 utc</text>
+<text class="s" x="28" y="88" font-size="15" font-weight="600" fill="#7f868c">shipping</text><text class="m" x="872" y="88" font-size="12" fill="#3a4045" text-anchor="end">most recent pushes</text>
+<text class="s" x="28" y="132" font-size="13" fill="#6d7378">waiting for the first sync. run the refresh workflow once from the actions tab.</text>
+<text class="s" x="28" y="188" font-size="15" font-weight="600" fill="#7f868c">personal goals</text><text class="m" x="872" y="188" font-size="12" fill="#3a4045" text-anchor="end">2026</text>
+<text class="s" x="28" y="226" font-size="15" fill="#f0f1f2">grow Quizzr users</text>
+<text class="m" x="872" y="226" font-size="12" fill="#6d7378" text-anchor="end">222/250 users</text>
+<rect x="28" y="236" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="236" width="751.2" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="262" font-size="12" fill="#6d7378">89% complete</text>
+<text class="s" x="28" y="292" font-size="15" fill="#f0f1f2">attend hackathons</text>
+<text class="m" x="872" y="292" font-size="12" fill="#6d7378" text-anchor="end">1/2</text>
+<rect x="28" y="302" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="302" width="422.0" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="328" font-size="12" fill="#6d7378">50% complete</text>
+<text class="s" x="28" y="358" font-size="15" fill="#f0f1f2">publish technical tutorials</text>
+<text class="m" x="872" y="358" font-size="12" fill="#6d7378" text-anchor="end">3/10</text>
+<rect x="28" y="368" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="368" width="253.2" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="394" font-size="12" fill="#6d7378">30% complete</text>
+<text class="s" x="28" y="424" font-size="15" fill="#f0f1f2">ship new full-stack projects</text>
+<text class="m" x="872" y="424" font-size="12" fill="#6d7378" text-anchor="end">5/7</text>
+<rect x="28" y="434" width="844" height="6" rx="3" fill="#1c1f22"/>
+<rect x="28" y="434" width="599.2" height="6" rx="3" fill="#00ff1e"/>
+<text class="s" x="28" y="460" font-size="12" fill="#6d7378">71% complete</text>
+<text class="s" x="28" y="504" font-size="15" font-weight="600" fill="#7f868c">pushes, last 30 days</text><text class="m" x="872" y="504" font-size="12" fill="#3a4045" text-anchor="end">0 pushes</text>
+<rect x="28.0" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="56.1" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="84.3" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="112.4" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="140.5" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="168.7" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="196.8" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="224.9" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="253.1" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="281.2" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="309.3" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="337.5" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="365.6" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="393.7" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="421.9" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="450.0" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="478.1" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="506.3" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="534.4" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="562.5" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="590.7" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="618.8" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="646.9" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="675.1" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="703.2" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="731.3" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="759.5" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="787.6" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="815.7" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<rect x="843.9" y="583" width="22.1" height="3" rx="1.5" fill="#1c1f22"/>
+<text class="m" x="28" y="606" font-size="11" fill="#3a4045">sep 11</text>
+<text class="m" x="872" y="606" font-size="11" fill="#3a4045" text-anchor="end">today</text>
+</svg>

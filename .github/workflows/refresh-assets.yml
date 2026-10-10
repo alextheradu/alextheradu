@@ -1,0 +1,30 @@
+name: refresh assets
+
+on:
+  schedule:
+    - cron: "13 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: build hero and status svgs
+        run: python3 scripts/build_assets.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+      - name: commit if changed
+        run: |
+          git config user.name "refresh-assets"
+          git config user.email "alex@alexradu.co"
+          git add assets/hero.svg assets/status.svg
+          git diff --cached --quiet || git commit -m "refresh assets"
+          git push

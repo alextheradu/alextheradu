@@ -1,0 +1,23 @@
+[
+    {
+        "name": "grow Quizzr users",
+        "want": 250,
+        "unit": "users",
+        "live": "quizzr"
+    },
+    {
+        "name": "attend hackathons",
+        "have": 1,
+        "want": 2
+    },
+    {
+        "name": "publish technical tutorials",
+        "have": 3,
+        "want": 10
+    },
+    {
+        "name": "ship new full-stack projects",
+        "have": 5,
+        "want": 7
+    }
+]

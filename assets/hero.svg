@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 224" width="900" height="224" role="img" aria-label="Alex Radu, full stack web dev and hardware specialist from NJ">
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<rect x="0.5" y="0.5" width="899" height="223" rx="12" fill="#0d0f11" stroke="#23272b"/>
+
+<text class="s" x="28" y="48" font-size="15" fill="#9aa1a8">// portfolio :O</text>
+<text class="s" x="872" y="48" font-size="14" fill="#6d7378" text-anchor="end">about / skills / projects / goals</text>
+<text class="s" x="28" y="128" font-size="54" font-weight="700" fill="#f0f1f2">Alex Radu<tspan fill="#00ff1e">_<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+<text class="s" x="28" y="164" font-size="18" fill="#b7bcc1">full stack web dev and hardware specialist (from nj!)</text>
+<text class="s" x="28" y="196" font-size="15" fill="#6d7378">i build cool apps (i think) like curator, my frc team's scouting app, and more!</text>
+
+</svg>
