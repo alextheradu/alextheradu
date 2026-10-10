@@ -23,7 +23,7 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
       - name: commit if changed
         run: |
-          git config user.name "refresh-assets"
+          git config user.name "alex radu[bot]"
           git config user.email "alex@alexradu.co"
           git add assets/hero.svg assets/status.svg
           git diff --cached --quiet || git commit -m "refresh assets"

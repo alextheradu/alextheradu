@@ -18,6 +18,6 @@ jobs:
           sed -i "s/<!--QUIZZR-USERS-->.*<!--\/QUIZZR-USERS-->/<!--QUIZZR-USERS-->${COUNT}<!--\/QUIZZR-USERS-->/" README.md
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "alex radu[bot]"
+          git config user.email "alex@alexradu.co"
           git diff --quiet README.md || (git add README.md && git commit -m "Update user count" && git push)
