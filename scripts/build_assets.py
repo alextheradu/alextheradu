@@ -189,6 +189,8 @@ def build_status(repos, events, goals, now):
     parts.append(h2(y, "personal goals", "2026"))
     top = y + 16
     for g in goals:
+        if not g.get("enabled", True):
+            continue
         want = g["want"]
         if g.get("live") == "quizzr":
             have = quizzr_count()
