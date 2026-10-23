@@ -14,7 +14,7 @@ i'm a junior at pascack hills high school and i lead infotech (websites, scoutin
 - `06` **[Command](https://github.com/PioneersTeam1676/command)** `react` `express`<br>A self-hostable team management app for FRC-style robotics teams.
 - `06` **self-hosted infrastructure** `docker` `nginx` `linux`<br>dokploy + traefik hosting my team's scouting app and a handful of side projects across a few domains, on hardware i manage myself.
 
-also: [quizzr.org](https://quizzr.org) (<!--QUIZZR-USERS-->226<!--/QUIZZR-USERS--> users, hackathon semifinalist), [karaokly.com](https://karaokly.com), [frctree.team1676.com](https://frctree.team1676.com/), [team1676.com](https://team1676.com), [phhshack.club](https://phhshack.club)
+also: [quizzr.org](https://quizzr.org) (<!--QUIZZR-USERS-->error code: 502<!--/QUIZZR-USERS--> users, hackathon semifinalist), [karaokly.com](https://karaokly.com), [frctree.team1676.com](https://frctree.team1676.com/), [team1676.com](https://team1676.com), [phhshack.club](https://phhshack.club)
 
 reach me on [github](https://github.com/alextheradu), [instagram](https://www.instagram.com/al3x_r4du/), [linkedin](https://www.linkedin.com/in/al3x-radu/), or email [alex@alexradu.co](mailto:alex@alexradu.co). more at [alexradu.co](https://alexradu.co).
 
