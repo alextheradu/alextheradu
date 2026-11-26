@@ -12,7 +12,7 @@ i'm a junior at pascack hills high school and i lead infotech (websites, scoutin
 - `04` **[DATAC pipeline](https://github.com/alextheradu/shahlab-nf-scatac/)** `nextflow` `nf-core` `bioinformatics`<br>demultiplexes ATAC and WGS reads from the DATAC single-cell co-assay. built during my internship in the shah lab at mskcc.
 - `05` **[Pioneer Scouting](https://github.com/PioneersTeam1676/1676-maneuver)** `react` `express` `sqlite` `dexie`<br>full rebuild of team 1676's scouting app. works offline in a stand with no signal, with google oauth roles for pit scouts, drive teams, and leads.
 - `06` **[Command](https://github.com/PioneersTeam1676/command)** `react` `express`<br>A self-hostable team management app for FRC-style robotics teams.
-- `06` **self-hosted infrastructure** `docker` `nginx` `linux`<br>dokploy + traefik hosting my team's scouting app and a handful of side projects across a few domains, on hardware i manage myself.
+- `07` **self-hosted infrastructure** `docker` `nginx` `linux`<br>dokploy + traefik hosting my team's scouting app and a handful of side projects across a few domains, on hardware i manage myself.
 
 also: [quizzr.org](https://quizzr.org) (<!--QUIZZR-USERS-->230<!--/QUIZZR-USERS--> users, hackathon semifinalist), [karaokly.com](https://karaokly.com), [frctree.team1676.com](https://frctree.team1676.com/), [team1676.com](https://team1676.com), [phhshack.club](https://phhshack.club)
 
